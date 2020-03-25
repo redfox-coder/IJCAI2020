@@ -1,4 +1,4 @@
-# Fair Influence Maximization Through Adversarial Network Embedding
+# Fair Influence Maximization Through Adversarial Network Embedding- IJCAI 2020
 
 This repository contains the implementation code and the data used for the paper, "Adversarial Graph Embeddings for Fair Influence Maximization over Social Networks". 
 
